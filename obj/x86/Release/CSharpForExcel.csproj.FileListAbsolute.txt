@@ -10,3 +10,16 @@ E:\CSharp_Worksapce\CSharpExcel\obj\x86\Release\CSharpForExcel.csproj.GenerateRe
 E:\CSharp_Worksapce\CSharpExcel\obj\x86\Release\CSharpForExcel.csproj.CoreCompileInputs.cache
 E:\CSharp_Worksapce\CSharpExcel\obj\x86\Release\CSharpForExcel.exe
 E:\CSharp_Worksapce\CSharpExcel\obj\x86\Release\CSharpForExcel.pdb
+F:\CSharp_WorkSpace\CSharpExcel\bin\Release\CSharpForExcel.exe.config
+F:\CSharp_WorkSpace\CSharpExcel\bin\Release\CSharpForExcel.exe
+F:\CSharp_WorkSpace\CSharpExcel\bin\Release\CSharpForExcel.pdb
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.csproj.AssemblyReference.cache
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\Interop.Office.dll
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.csproj.ResolveComReference.cache
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.Form1.resources
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.Form2.resources
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.Properties.Resources.resources
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.csproj.GenerateResource.cache
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.csproj.CoreCompileInputs.cache
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.exe
+F:\CSharp_WorkSpace\CSharpExcel\obj\x86\Release\CSharpForExcel.pdb

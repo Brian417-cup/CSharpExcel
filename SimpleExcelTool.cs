@@ -40,8 +40,8 @@ namespace CSharpForExcel
             try
             {
                 //这种版本的连接需要装Office客户端
-               // strConn = string.Format("Provider={0};Data Source={1}; Extended Properties={2};",
-               //new object[] { "Microsoft.ACE.OLEDB.12.0", filePath, "'Excel 12.0'" });
+                // strConn = string.Format("Provider={0};Data Source={1}; Extended Properties={2};",
+                //new object[] { "Microsoft.ACE.OLEDB.12.0", filePath, "'Excel 12.0'" });
                 //这种版本的不需要装Office客户端，可直接使用，但是只支持excel2003
                 strConn = string.Format("Provider={0};Data Source={1}; Extended Properties={2};",
                new object[] { "Microsoft.Jet.OLEDB.4.0", filePath, "'Excel 8.0'" });

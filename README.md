@@ -1,4 +1,4 @@
-# C# Excel
+# C# Excel With SQL For Windows
 C#连接Excel并执行SQL操作
 
 
@@ -6,8 +6,30 @@ C#连接Excel并执行SQL操作
 # 输入
 
   ## 支持格式
-    Excel 2003 格式的文件 *.xls
+
+- CSharpForExcel_Plus
+
+  [下载地址](./bin/Release/CSharpForExcel_Plus.exe)
+
+  ```shell
+  Excel 2003 格式的文件 *.xls
+  ```
+
+  
+
+- CSharpForExcel
+
+  [下载地址](./bin/Release/CSharpForExcel.exe)
+
+  **需要安装** [ACE 32位插件]()
+  
+  ```shell
+  Excel 2003 格式的文件 *.xls
+  Excel 2007 格式的文件 *.xlsx
+  ```
+
   ## 表格限制
+  
     支持多张表的操作，但是这多张表格应该在一个.xls文件中
   ## 单元格限制 
     没有合并单元格和非合并单元格并存的情况，第一行有列名 (其将作为最终SQL语句查询的列名)
@@ -23,6 +45,7 @@ C#连接Excel并执行SQL操作
     update SQL语句
   ## 删除整张表
      drop SQL语句
+
 
 
 # 输出(针对查询结果的文件保存)
